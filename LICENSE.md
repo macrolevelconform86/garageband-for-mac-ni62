@@ -1,4 +1,4 @@
-# 
+# GarageBand for macOS custom LUT: chromatic-aberration-fix & subtitle-generator is the best GarageBand for macOS lut, featuring chromatic-aberration-fix and subtitle-generator.
 
 
 
